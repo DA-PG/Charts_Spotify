@@ -1,9 +1,10 @@
 🎵 Análisis de Datos de Spotify con BigQuery y Looker Studio
 
-📌 Descripción
+📌 Descripción:
+
 Este repositorio contiene un proyecto de análisis de datos de Spotify, utilizando BigQuery para la transformación de datos y Looker Studio para la visualización interactiva. El objetivo es extraer insights clave sobre tendencias musicales y popularidad de canciones (exploratorio).
 
-📊 Datos Utilizados
+📊 Datos Utilizados:
 Se han recopilado datasets de Spotify, incluyendo:
 
 regional_global_daily: Posiciones diarias de canciones a nivel global.
