@@ -1,4 +1,4 @@
-🎵 Análisis de Datos de Spotify con BigQuery y Looker Studio
+🎵 Análisis de Datos de Spotify con BigQuery y Visualizacion (Looker Studio, Tableau)
 
 📌 Descripción:
 
