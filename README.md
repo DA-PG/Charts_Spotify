@@ -2,7 +2,7 @@
 
 📌 Descripción:
 
-Este repositorio contiene un proyecto de análisis de datos de Spotify, utilizando BigQuery para la transformación de datos y Looker Studio para la visualización interactiva. El objetivo es extraer insights clave sobre tendencias musicales y popularidad de canciones (exploratorio).
+Este repositorio contiene un proyecto de análisis de datos de Spotify, utilizando BigQuery para la transformación de datos y Looker Studio - Tableau para la visualización interactiva. El objetivo es extraer insights clave sobre tendencias musicales y popularidad de canciones (exploratorio).
 
 📊 Datos Utilizados:
 
