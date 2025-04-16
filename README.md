@@ -34,5 +34,6 @@ Conectar los resultados a Looker Studio y construir visualizaciones.
 🔗 Recursos y Enlaces:
 
 📌 Ver Dashboard en Looker Studio (enlace)
+📌 Ver Dashboard en Tableau (enlace)
 📌 Mi perfil de LinkedIn (enlace)
 📌 Contacto y otros proyectos (enlace)
